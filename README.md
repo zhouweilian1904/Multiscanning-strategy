@@ -5,4 +5,6 @@ The scanning style can be refered in "W. Zhou, S. -i. Kamata, Z. Luo and H. Wang
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+zhouweilian1904@akane.waseda.jp
+
 ![alt text](./multi-scanning.png)
